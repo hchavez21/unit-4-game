@@ -1,0 +1,70 @@
+img {
+    height: 80px;
+    width: 80px;
+}
+
+h1 {
+    font-size: 35px;
+    color: white;
+    background-color: royalblue;
+    padding: 10px;
+    width: 290px;
+}
+
+body {
+    margin: 20px;
+}
+
+#rules {
+    color: red;
+    background-color: beige;
+    width: 430px;
+    line-height: 20px;
+    padding: 10px;
+}
+
+#randomnumber {
+    font-size: 30px;
+    background-color: green;
+    width: 130px;
+    height: 80px;
+    padding: 5px;
+    float: left;
+    margin-bottom: 10px;
+}
+
+#score {
+    float: left;
+    background-color: lightblue;
+    padding: 5px;
+    margin-left: 5px;
+    height: 80px;
+    width: 70px;
+    margin-bottom: 10px;
+}
+
+#images {
+    clear: left;
+}
+
+#ts {
+    background-color: lightseagreen;
+    width: 250px;
+    color: white;
+    padding: 5px;
+    font-size: 17px;
+    margin-top: 10px;
+}
+
+#totalScore {
+    background-color: lightseagreen;
+    width: 250px;
+    color: white;
+    padding: 5px;
+    font-size: 30px;
+    margin-top: 10px;
+    height: 100px;
+}
+
+
+
